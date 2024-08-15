@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liangxiao-LI)
-‍
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liangxiao-LI)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Liangxiao-LI)
-
 💻 Front-End Developer / 📷 Weekend Photographer / 🎬 YouTuber
 
 ## Resume
@@ -14,7 +8,7 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 
 ## About Me
 
-- 🐾 Pet parent to 2 cats 🐈 and 1 Shiba Inu 🐕
+- Hearthstone Gamer
 - ⌨️ Senior Front-End Developer
 - ✍️ Blogging and tech reviews at [LUOLEI.ORG](https://luolei.org)
 - 🎬 Creator of [ZUOLUOTV](https://zuoluo.tv/youtube) on YouTube ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
@@ -27,11 +21,9 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 
 ## Work Experience
 
-- Apr 2024 - Present: Full-Stack Developer / Open to new opportunities
-- Jan 2021 - Mar 2024: Senior Front-End Developer at Yuewen Group (772.HK), Shenzhen
-- Jan 2019 - Oct 2020: Founder of ZUOLUOTV, Shenzhen
-- May 2015 - Sep 2015: Front-End Developer at Yuewen Group, Shanghai
-- Jul 2013 - May 2015: Intern & Junior Front-End Developer at Cheetah Mobile (NYSE: CMCM), Beijing
+- June 2024 - Aug 2024: Barclays Bank, Chief Operation Office Technology Analyst Intern
+- July 2023 - Sep 2023: Shenzhen Bay Laboratory, Research Assistant
+- July 2022 - Sep 2022: Meixxx Digital Twin Company, Data Analyst Intern
 
 ## Connect
 
@@ -47,6 +39,12 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 - [![wechat](https://static.is26.com/tmp/icons/wechat.svg)](https://zuoluo.tv/wechat)[WeChat Official Accounts:罗磊啰嗦](https://zuoluo.tv/wechat)
 - [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[Github: foru17](https://github.com/foru17)
 - [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[Mail: i@luolei.org](mailto:i@luolei.org)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liangxiao-LI)
+‍
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liangxiao-LI)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Liangxiao-LI)
 
 ![](https://static.is26.com/share/profile-background.jpg)
 <!--
