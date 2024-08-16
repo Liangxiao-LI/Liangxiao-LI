@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Front-End Developer / 📷 Weekend Photographer / 🎬 YouTuber
+📉 Statistics student / 📊 Data Science Passionist
 
 ## Resume
 
