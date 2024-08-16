@@ -4,7 +4,7 @@
 
 ## Resume
 
-Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to view my resume in detail.
+Click **[📝 HERE](https://github.com/Liangxiao-LI/Liangxiao-LI/blob/main/Liangxiao%20Li%20CV%2020240806.pdf)** to view my resume in detail.
 
 ## About Me
 
