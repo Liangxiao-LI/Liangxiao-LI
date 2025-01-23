@@ -9,7 +9,8 @@ Click **[📝 HERE](https://github.com/Liangxiao-LI/Liangxiao-LI/blob/main/Liang
 ## About Me
 
 - 🃏 Card Game Enthusiast (10 Years Hearthstone/Slay the Spire/Wildfrost/Texas Hold'em)
-- ✈️ Globetrotter with travels to multiple countries 🇨🇳🇨🇿🇦🇹🇹🇭🇦🇺🇳🇿🇯🇵🇬🇧🇮🇸🇫🇷🇪🇸🇳🇱🇲🇪🇦🇱
+- ✈️ Globetrotter with travels to multiple countries 🇨🇳🇭🇰🇬🇧🇫🇷🇳🇱🇪🇸🇨🇿🇦🇹🇳🇿🇦🇺🇲🇪🇦🇱🇹🇭🇮🇸🇯🇵
+- ☕️ Hopelessly caffeinated and loyal to Flat white!
 - 📷 Learning photography
 - 🔮 Practicing Tarot Divination
 
