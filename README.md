@@ -9,17 +9,19 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liangxiao-LI&theme=tokyonight" 
-    alt="Liangxiao Li's GitHub Stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liangxiao-LI&theme=tokyonight" 
+    alt="Liangxiao Li's GitHub Profile Details" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Liangxiao-LI&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liangxiao-LI&theme=tokyonight" 
     alt="Liangxiao Li's GitHub Stats" 
   />
 </p>
+
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Liangxiao-LI&show_icons=true&theme=tokyonight)
