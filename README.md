@@ -1,11 +1,3 @@
-## About Me
-
-- 🃏 Card Game Enthusiast (10 Years Hearthstone/Slay the Spire/Wildfrost/Texas Hold'em)
-- ✈️ Globetrotter with travels to multiple countries 🇨🇳🇭🇰🇬🇧🇫🇷🇳🇱🇪🇸🇨🇿🇦🇹🇳🇿🇦🇺🇲🇪🇦🇱🇹🇭🇮🇸🇯🇵
-- ☕️ Hopelessly caffeinated and loyal to Flat white!
-- 📷 Learning photography
-- 🔮 Practicing Tarot Divination
-
 
 <p align="center">
   <img 
