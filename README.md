@@ -6,8 +6,13 @@
 - 📷 Learning photography
 - 🔮 Practicing Tarot Divination
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liangxiao-LI&theme=tokyonight" />
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liangxiao-LI&theme=tokyonight" 
+    alt="Liangxiao Li's GitHub Profile Summary" 
+  />
+</p>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Liangxiao-LI&show_icons=true&theme=tokyonight)
