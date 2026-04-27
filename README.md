@@ -6,7 +6,7 @@
 - 📷 Learning photography
 - 🔮 Practicing Tarot Divination
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=Liangxiao-LI&show_icons=true&theme=tokyonight)
 
 <!--
 
