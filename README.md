@@ -1,7 +1,3 @@
-## Hi there 👋
-
-📉 Statistics student / 📊 Data Science Passionist
-
 ## About Me
 
 - 🃏 Card Game Enthusiast (10 Years Hearthstone/Slay the Spire/Wildfrost/Texas Hold'em)
