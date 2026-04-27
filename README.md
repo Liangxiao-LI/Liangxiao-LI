@@ -2,10 +2,6 @@
 
 📉 Statistics student / 📊 Data Science Passionist
 
-## Resume
-
-Click **[📝 HERE](https://github.com/Liangxiao-LI/Liangxiao-LI/blob/main/Liangxiao%20Li%20CV%2020240806.pdf)** to view my resume in detail.
-
 ## About Me
 
 - 🃏 Card Game Enthusiast (10 Years Hearthstone/Slay the Spire/Wildfrost/Texas Hold'em)
@@ -13,12 +9,6 @@ Click **[📝 HERE](https://github.com/Liangxiao-LI/Liangxiao-LI/blob/main/Liang
 - ☕️ Hopelessly caffeinated and loyal to Flat white!
 - 📷 Learning photography
 - 🔮 Practicing Tarot Divination
-
-## Work Experience
-
-- June 2024 - Aug 2024: Barclays Bank, Chief Operation Office Technology Analyst Intern
-- July 2023 - Sep 2023: Shenzhen Bay Laboratory, Research Assistant
-- July 2022 - Sep 2022: Meixxx Digital Twin Company, Data Analyst Intern
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liangxiao-LI)
 ‍
